@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "XC6210B182MR")(type "KiCad")(uri "G:/Mój dysk/Pixel-Card/Hardware/kicad_libraries/XC6210B182MR-G/KiCADv6/2024-05-19_06-52-05.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS2116DRLR")(type "KiCad")(uri "G:/Mój dysk/Pixel-Card/Hardware/kicad_libraries/TPS2116DRLR/TPS2116DRLR.kicad_sym")(options "")(descr ""))
+)
